@@ -1,3 +1,2 @@
 # first
-第一个测试项目
-做出改变
+now i realize what i should do 
